@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+.env
+
+.DS_Store
+Thumbs.db
+
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+
+# Streamlit and local tooling caches
+.streamlit/secrets.toml
+.pytest_cache/

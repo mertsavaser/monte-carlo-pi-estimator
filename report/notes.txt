@@ -1,0 +1,4 @@
+Homework notes placeholder.
+
+- Add experiment observations here.
+- Record simulation settings and outcomes.
